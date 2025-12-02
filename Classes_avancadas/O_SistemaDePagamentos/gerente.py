@@ -1,4 +1,4 @@
-from Classes_abstratas.O_SistemaDePagamentos.fucionario import Fucionario
+from Classes_avancadas.O_SistemaDePagamentos.fucionario import Fucionario
 
 class Gerente(Fucionario):
     def __init__(self,nome,salario):

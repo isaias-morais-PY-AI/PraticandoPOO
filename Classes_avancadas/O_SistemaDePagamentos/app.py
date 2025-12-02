@@ -1,6 +1,5 @@
-from Classes_abstratas.O_SistemaDePagamentos.fucionario import Fucionario
-from Classes_abstratas.O_SistemaDePagamentos.gerente import Gerente
-from Classes_abstratas.O_SistemaDePagamentos.estagiario import Estagiario
+from Classes_avancadas.O_SistemaDePagamentos.gerente import Gerente
+from Classes_avancadas.O_SistemaDePagamentos.estagiario import Estagiario
 
 fucionarios = []
 
